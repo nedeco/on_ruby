@@ -1,9 +1,8 @@
 GIT
   remote: git://github.com/FriendlyId/friendly_id.git
-  revision: 78d639d67a17135fe5e3b9731fd4328c315c74b1
-  branch: rails4
+  revision: 823c46d67984f4401eeb0ccd272acc3e9e218ace
   specs:
-    friendly_id (4.1.0.beta.2)
+    friendly_id (5.0.0.beta2)
 
 GIT
   remote: git://github.com/fesplugas/typus.git

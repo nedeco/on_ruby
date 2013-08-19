@@ -9,7 +9,7 @@ gem "rails-observers",        "0.1.1"
 
 gem "slim-rails",             "2.0.1"
 gem "redcarpet",              "2.3.0"
-gem "friendly_id",            github: "FriendlyId/friendly_id", branch: "rails4"
+gem "friendly_id",            github: "FriendlyId/friendly_id"#, branch: "master"
 gem "omniauth",               "1.1.4"
 gem "omniauth-twitter",       "0.0.17"
 gem "omniauth-github",        "1.1.0"
