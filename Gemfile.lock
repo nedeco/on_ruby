@@ -1,4 +1,11 @@
 GIT
+
+  remote: git://github.com/FriendlyId/friendly_id.git
+  revision: 823c46d67984f4401eeb0ccd272acc3e9e218ace
+  specs:
+    friendly_id (5.0.0.beta2)
+
+
   remote: git://github.com/fesplugas/typus.git
   revision: 8da0798237ced99289966ff53684bcea33adc44a
   specs:
